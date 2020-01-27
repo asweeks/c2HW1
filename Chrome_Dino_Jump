@@ -4,6 +4,7 @@ Data/Model
   dino y(yump position)
   cacti x position
   dino cacti colision
+  connected to internet
   
 Render/View
   dino
@@ -24,5 +25,6 @@ Simulate
   score increasing 
   
 Events/Input
+  internet is active
   space bar(jump)
   mouse click(restart)
