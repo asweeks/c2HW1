@@ -1,0 +1,28 @@
+Data/Model
+  current score
+  high score
+  dino y(yump position)
+  cacti x position
+  dino cacti colision
+  
+Render/View
+  dino
+  cacti
+  current score
+  high score
+  clouds
+  sand 
+  ground
+  game over
+  restart button
+  
+Simulate
+  dino jumping
+  ground moving
+  cacti moving
+  clouds moving
+  score increasing 
+  
+Events/Input
+  space bar(jump)
+  mouse click(restart)
