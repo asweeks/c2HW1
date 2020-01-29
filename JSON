@@ -1,0 +1,8 @@
+The nose key value pair has "nose" as key and an abject as the value. The object contains key/value pairs that represent numeric x and y coordinates on the cartesian coordinate system, as well as  "confidance" which also has a number as the value.
+ 
+ ex:
+ "nose": {
+            "x": 412.6946652655945,
+            "y": 192.62720059697853,
+            "confidence": 0.9306699633598328
+         },
