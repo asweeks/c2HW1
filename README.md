@@ -1,2 +1,2 @@
 
-![MidsoleCad](https://github.com/asweeks/final-proposal-1.md/blob/master/explodedMidsole.PNG)
+![Casio](https://github.com/asweeks/c2HW1/blob/master/casio.jpeg)
